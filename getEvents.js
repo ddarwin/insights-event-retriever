@@ -14,8 +14,8 @@ var assert = require ('assert');
 var fs = require('fs');
 
 /** UPDATE THESE variables **/
-var INSIGHTS_QUERY_KEY = 'Kv0rnajMgJcsb6Ut4CZNNZWtQKxKd_-U'; // Demotron
-var accountID = '1606862';
+var INSIGHTS_QUERY_KEY = 'REPLACE_THIS_WITH_INSIGHTS_QUERY_KEY'; // Demotron
+var accountID = '<REPLACE_THIS_WITH_NR_RPM_ID>';
 
 var fileNamePrefix = "EXAMPLE"; //prefix to the name of output tsv - <prefix>-EVENTS_FROM_<startDate>_TO_<endDate>_CREATED_<created timestamp>.tsv
 
